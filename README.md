@@ -10,10 +10,10 @@ Mass Finder App
 * API for all that data
 
 ## Examples of Available Products
-* https://www.archtoronto.org/contact* us/find* a* parish?parishname=&address=&city=&postal=&lang=&massday=&masstime=12:30%20PM&showmass=True
+* https://www.archtoronto.org/contact-us/find-a-parish?parishname=&address=&city=&postal=&lang=&massday=&masstime=12:30%20PM&showmass=True
 * http://www.thecatholicdirectory.com/dsp_mobile_app.cfm
-* http://rcav.org/mass* finder/
+* http://rcav.org/mass-finder/
 
 
 ## Future Ideas
-* include saint of the day as intro tag: https://github.com/igneus/church* calendar* api
+* include saint of the day as intro tag: https://github.com/igneus/church-calendar-api
