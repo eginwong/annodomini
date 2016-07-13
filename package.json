@@ -1,0 +1,29 @@
+{
+  "name": "annodomini",
+  "version": "0.0.0",
+  "description": "Mass Finder App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eginwong/annodomini.git"
+  },
+  "dependencies": {
+    "angular": "^1.5.0",
+    "body-parser": "^1.15.0",
+    "bootstrap": "^3.2.0",
+    "bower": "^1.7.7",
+    "express": "^4.10.0",
+    "fs": "0.0.2",
+    "jquery": ">=2.1.1",
+    "nodemon": "latest",
+    "request": "^2.69.0"
+  },
+  "author": "eginwong",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/eginwong/annodomini/issues"
+  }
+}
